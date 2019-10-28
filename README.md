@@ -18,3 +18,5 @@ The executive summary from the report is below.
 >At the workshop in Cardiff Metropolitan University it was agreed exactly which parts of the overall system would be designed and built by the school team and which parts would be provided by GDUK. It was decided that the team would design and make a case suitable to protect the RPi3 and fix it to the UAV, using sacrificial connectors and cabling between the case and the RPi3. This would then be fitted to the UAV by GDUK alongside the HackRF One SDR which would be in a special screened case. The team sent the specifications for the case and the cabling to GDUK for them to design the rest of the system to be used in the trial.
 
 I would like to note that I wrote all of this code several years ago and acknowledge that some of it is messily and inefficently written and that the whole system is not particularly reliable and could be significantly re designed to improve it. If I was todo the same project again I would design the system in a significantly different way
+
+Written in 2017
