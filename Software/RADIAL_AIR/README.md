@@ -1,0 +1,1 @@
+This software was run on a Raspberry Pi connected to a Hack RF SDR and a GPS modual. The Pi was also connected to a wifi network from the ground computer. The package was then lifted and flown by a large drone.
